@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+<h1 align="center">Faria Blog</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="Faria Blog Homepage" title="Faria Blog Homepage" src="./fariablog-homepage.png" width="700px"  />
+</h1>
 
 ## Available Scripts
 
