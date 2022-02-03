@@ -1,15 +1,17 @@
-import Navbar from './Navbar.js';
-import Home from './Home.js';
+import "firebase/firestore";
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import Create from './Create.js';
-import BlogDetails from './BlogDetails.js';
-import NotFound from './NotFound.js';
+import Navbar from './components/Navbar.js';
+import BlogDetails from './routes/BlogDetails.js';
+import Create from './routes/Create.js';
+import Home from './routes/Home.js';
+import NotFound from './routes/NotFound.js';
 
 function App() {
+
   return (
     <Router>
       <div className="App">
-          <Navbar />
+        <Navbar />
         <div className="content">
           <Switch>
             <Route exact path="/">
@@ -24,7 +26,7 @@ function App() {
             <Route path="*">
               <NotFound />
             </Route>
-          </Switch>  
+          </Switch>
         </div>
       </div>
     </Router>
