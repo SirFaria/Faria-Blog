@@ -4,7 +4,7 @@
     <img alt="Faria Blog Homepage" title="Faria Blog Homepage" src="./fariablog-homepage.png" width="700px"  />
 </h1>
 
-<h2 align="center">Live Demo: https://faria-blog-3vdl184sr-sirfaria.vercel.app/ </h2>
+<h2 align="center">Live Demo: https://faria-blog.vercel.app/ </h2>
 
 ## 💻 Projeto
 
