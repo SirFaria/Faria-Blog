@@ -8,7 +8,8 @@
 
 ## 💻 Projeto
 
-Um blog onde você pode postar e deletar artigos.\
-Um simples app em react criado no 'Full React Tutorial' do 'The Net Ninja'
+A blog where you can post an delete articles.\
+
+A simple React app created in 'The Net Ninja Full React Tutorial'
 
 
