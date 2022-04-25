@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-A blog where you can post an delete articles.\
+A blog where you can post an delete articles.
 
 A simple React app created in 'The Net Ninja Full React Tutorial'
 
