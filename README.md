@@ -12,6 +12,8 @@ A blog where you can create, read and delete articles.
 
 A simple React app created in 'The Net Ninja Full React Tutorial'.
 
+## 🚀 Techs
+
 This project was built with:
 
 - HTML
